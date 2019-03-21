@@ -1,0 +1,4 @@
+NODE_ENV=development
+JWT_SECRET=1122334455
+MONGODB_URI=mongodb://localhost:27017/api_development
+SERVER_PORT=8080
